@@ -15,7 +15,7 @@ import android.os.Bundle;
 import android.os.Environment;
 import android.provider.MediaStore;
 import android.support.v7.app.ActionBarActivity;
-import android.support.v7.internal.view.menu.SubMenuBuilder;
+import android.support.v7.view.menu.SubMenuBuilder;
 import android.support.v7.widget.Toolbar;
 import android.text.Html;
 import android.util.Log;
